@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff00cc,75:3333ff,100:000000&height=300&section=header&text=HARMAN&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20in%20Progress&descSize=24&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff88,100:000000&height=300&section=header&text=HARMAN&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20in%20Progress&descSize=24&descAlignY=60" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=900&lines=Java+%2B+DSA+Focused;Backend+Engineering+Journey;Building+Real+World+Systems;Full+Stack+Learning+Path;System+Thinking+Mindset" />
