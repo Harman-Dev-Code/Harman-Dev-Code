@@ -1,80 +1,38 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8b0000,100:0f0f0f&height=280&section=header&text=HARMAN&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20Systems%20That%20Scale&descSize=22&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=300&section=header&text=HARMAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20in%20Progress&descSize=24&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=800&color=FF4D4D&center=true&vCenter=true&width=750&lines=Java+%2B+DSA+Learner;Future+Backend+Engineer;Full+Stack+in+Progress;System+Thinking+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=900&lines=Java+%2B+DSA+Focused;Backend+Engineering+Journey;Building+Real+World+Systems;Full+Stack+Learning+Path;System+Thinking+Mindset" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=Harman-Dev-Code&label=Profile+Views&color=ff0000&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td>
+```diff
++ Backend-Focused Developer | Java + DSA | System Thinker
+```
 
-Computer Science student focused on mastering **Java, DSA, and Backend Development**.
+I am a Computer Science student focused on becoming a **strong backend engineer** with deep knowledge of **Data Structures & Algorithms (Java)**.
 
-I believe in **system thinking over shortcuts**, and I aim to build **real-world scalable systems** instead of just tutorials.
-
-Currently improving problem-solving skills while exploring full stack development.
-
-</td>
-</tr>
-</table>
+✔ I focus on **understanding systems deeply** instead of surface-level learning  
+✔ I build **real-world projects** to apply concepts  
+✔ Interested in **backend architecture, APIs, and scalability**
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I’m Doing
 
-<table>
-<tr>
-<td>
-
-• Mastering Data Structures & Algorithms (Java)  
-• Backend Development (Node.js, APIs)  
-• Full Stack Learning (React + System Design Basics)  
-• Building real-world projects  
-• Writing clean and maintainable code  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,tailwind" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
+- 📚 Solving DSA daily (Java)
+- ⚙️ Learning Backend (Node.js, Express)
+- 🌐 Exploring Full Stack (React)
+- 🧠 Studying System Design
+- 🛠 Building production-style applications
 
 ---
 
@@ -82,48 +40,95 @@ Currently improving problem-solving skills while exploring full stack developmen
 
 ### 🤖 UGC Ad Generator
 
-A project focused on generating user-generated style ads using modern web technologies.
+<p align="center">
+  <img src="https://via.placeholder.com/800x400/000000/FFFFFF?text=UGC+Ad+Generator+Preview" />
+</p>
 
-**What I'm building:**
-- Content generation system  
-- Backend API handling  
+```diff
++ Real-world backend-focused project
+```
+
+**Key Highlights:**
+- Scalable backend API system  
+- Content generation workflow  
 - Clean UI for ad creation  
-- Scalable architecture mindset  
+- Focus on maintainability & architecture  
+
+🚧 Currently improving performance & adding features...
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+💻 Languages  
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,js,python" />
+
+<br><br>
+
+⚙️ Backend  
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+<br><br>
+
+🎨 Frontend  
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+<br><br>
+
+🧰 Tools  
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Harman-Dev-Code&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=ff4d4d&text_color=f5f5f5&icon_color=ff4d4d" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Harman-Dev-Code&hide_border=true&background=0f0f0f&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ff4d4d&sideNums=f5f5f5&currStreakNum=f5f5f5" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harman-Dev-Code&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Harman-Dev-Code&theme=dark&hide_border=true&background=000000&ring=ff0000&fire=ff0000" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harman-Dev-Code/Harman-Dev-Code/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-<table>
-<tr>
-<td>
-
-• Strong command over DSA (Java)  
-• Build backend-heavy applications  
-• Learn system design fundamentals  
-• Start contributing to open source  
-• Learn deployment & DevOps basics  
-• Become a job-ready full stack developer  
-
-</td>
-</tr>
-</table>
+- 🧠 Master DSA (Java)
+- ⚙️ Become backend strong
+- 🌍 Build scalable systems
+- 🤝 Open source contribution
+- 🚀 Learn DevOps & deployment
+- 💼 Get internship / job
 
 ---
 
-## 🧠 Mindset
+## 💼 Why Hire Me?
+
+✔ Strong problem-solving mindset (DSA focused)  
+✔ Backend-oriented thinking  
+✔ System thinking approach  
+✔ Continuous learner  
+
+---
+
+## 🧠 Developer Mindset
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%20understand%20the%20system,%20then%20optimize%20it." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Think%20in%20systems,%20not%20just%20code." />
 </p>
 
 ---
@@ -144,6 +149,8 @@ A project focused on generating user-generated style ads using modern web techno
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8b0000,100:0f0f0f&height=180&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=200&section=footer" />
 </p>
