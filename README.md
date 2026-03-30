@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:4b00ff,100:0b0f1a&height=300&section=header&text=HARMAN&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20in%20Progress&descSize=24&descAlignY=60" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=900&lines=Java+%2B+DSA+Focused;Backend+Engineering+Journey;Building+Real+World+Systems;Full+Stack+Learning+Path;System+Thinking+Mindset" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harman-Dev-Code&label=Profile+Views&color=ff0000&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=8a2be2&center=true&vCenter=true&width=900&lines=Java+%2B+DSA+Focused;Backend+Engineering+Journey;Building+Real+World+Systems;Full+Stack+Learning+Path;System+Thinking+Mindset" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harman-Dev-Code&label=Profile+Views&color=6a00ff&style=flat" />
 </p>
 
 ---
@@ -19,9 +20,9 @@
 
 I am a Computer Science student focused on becoming a **strong backend engineer** with deep knowledge of **Data Structures & Algorithms (Java)**.
 
-✔ I focus on **understanding systems deeply** instead of surface-level learning  
-✔ I build **real-world projects** to apply concepts  
-✔ Interested in **backend architecture, APIs, and scalability**
+✔ I focus on **understanding systems deeply**  
+✔ I build **real-world projects**  
+✔ Interested in **backend architecture, APIs, scalability**
 
 ---
 
@@ -40,7 +41,7 @@ I am a Computer Science student focused on becoming a **strong backend engineer*
 ### 🤖 UGC Ad Generator
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/000000/FFFFFF?text=UGC+Ad+Generator+Preview" />
+  <img src="https://via.placeholder.com/800x400/0b0f1a/ffffff?text=UGC+Ad+Generator" />
 </p>
 
 ```diff
@@ -50,10 +51,8 @@ I am a Computer Science student focused on becoming a **strong backend engineer*
 **Key Highlights:**
 - Scalable backend API system  
 - Content generation workflow  
-- Clean UI for ad creation  
-- Focus on maintainability & architecture  
-
-🚧 Currently improving performance & adding features...
+- Clean UI  
+- Maintainable architecture  
 
 ---
 
@@ -61,25 +60,11 @@ I am a Computer Science student focused on becoming a **strong backend engineer*
 
 <p align="center">
 
-💻 Languages  
-<br><br>
 <img src="https://skillicons.dev/icons?i=java,js,python" />
-
-<br><br>
-
-⚙️ Backend  
 <br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-<br><br>
-
-🎨 Frontend  
 <br><br>
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
-
-<br><br>
-
-🧰 Tools  
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 
@@ -90,8 +75,8 @@ I am a Computer Science student focused on becoming a **strong backend engineer*
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harman-Dev-Code&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Harman-Dev-Code&theme=dark&hide_border=true&background=000000&ring=ff0000&fire=ff0000" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harman-Dev-Code&show_icons=true&theme=dark&hide_border=true&bg_color=0b0f1a&title_color=8a2be2&icon_color=8a2be2" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Harman-Dev-Code&theme=dark&hide_border=true&background=0b0f1a&ring=8a2be2&fire=8a2be2" />
 </p>
 
 ---
@@ -107,32 +92,32 @@ I am a Computer Science student focused on becoming a **strong backend engineer*
 ## 🎯 2026 Goals
 
 - 🧠 Master DSA (Java)
-- ⚙️ Become backend strong
-- 🌍 Build scalable systems
-- 🤝 Open source contribution
-- 🚀 Learn DevOps & deployment
-- 💼 Get internship / job
+- ⚙️ Backend strong
+- 🌍 Scalable systems
+- 🤝 Open source
+- 🚀 DevOps basics
+- 💼 Internship / Job
 
 ---
 
 ## 💼 Why Hire Me?
 
-✔ Strong problem-solving mindset (DSA focused)  
+✔ Strong problem-solving mindset  
 ✔ Backend-oriented thinking  
 ✔ System thinking approach  
-✔ Continuous learner  
+✔ Consistent learner  
 
 ---
 
-## 🧠 Developer Mindset
+## 🧠 Mindset
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Think%20in%20systems,%20not%20just%20code." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Think%20deeply.%20Build%20systems.%20Not%20just%20code." />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
   <a href="#">
@@ -151,5 +136,5 @@ I am a Computer Science student focused on becoming a **strong backend engineer*
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=200&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:4b00ff,100:0b0f1a&height=200&section=footer" />
 </p>
