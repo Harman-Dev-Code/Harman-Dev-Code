@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=8a2be2&center=true&vCenter=true&width=900&lines=Java+%2B+DSA+Focused;Backend+Engineering+Journey;Building+Real+World+Systems;Full+Stack+Learning+Path;System+Thinking+Mindset" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harman-Dev-Code&label=Profile+Views&color=6a00ff&style=flat" />
-</p>
+
 
 ---
 
